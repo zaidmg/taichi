@@ -38,8 +38,6 @@ We have a mailing list located at: project@google-groups.com
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the BSD license. Mengulas beragam jenis Whatsmod yang dapat diunduh secara gratis dan powerful dengan beragam fitur menarik dari versi originalnya.
 
-- https://karinov.co.id - jasa digital marketing indonesia
-- https://www.autobild.co.id/ - direktori service center dan brand ternama Indonesia
-- https://www.navi.id - navigator panduan cara indonesia
+- https://www.autobild.co.id/ - Direktori Aplikasi dan Tutorial Teknologi Indonesia

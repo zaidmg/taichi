@@ -6,7 +6,7 @@
 Apa Itu WhatsApp Mod APK
 ==================
 
-Lambat laun, banyak masyarakat yang menggunakan WA MOD. Hal ini karena ada berbagai macam keunggulan yang ditawarkannya. Sekilas, WA ori dengan WA MOD memang terlihat sama. Karena sama-sama menggunakan nama 'WA' pada produk yang ditawarkan. Padahal, keduanya adalah aplikasi yang diciptakan oleh develop yang berbeda loh. Nah, bagi Anda yang belum tahu apa itu WA MOD, yuk simak penjelasan lengkap berikut. Agar Anda bisa menentukan, apakah akan menggunakannya ke depan atau tidak.
+Lambat laun, banyak masyarakat yang menggunakan `WA MOD APK <https://www.autobild.co.id/2021/08/download-whatsapp-wa-apk-official-dan.html>`_. Hal ini karena ada berbagai macam keunggulan yang ditawarkannya. Sekilas, WA ori dengan WA MOD memang terlihat sama. Karena sama-sama menggunakan nama 'WA' pada produk yang ditawarkan. Padahal, keduanya adalah aplikasi yang diciptakan oleh develop yang berbeda loh. Nah, bagi Anda yang belum tahu apa itu WA MOD, yuk simak penjelasan lengkap berikut. Agar Anda bisa menentukan, apakah akan menggunakannya ke depan atau tidak.
 
 Pengertian WA MOD
 ==================
@@ -60,8 +60,8 @@ Link Download WA MOD
 Bagaimana, menarik kan? Nah, jika Anda tertarik, Anda dapat mendownload beberapa aplikasi WA MOD  lewat link di bawah. Kami sudah menyediakan 7 link yang dapat Anda pilih:
 
 1. `Download GBWhatsApp APK Terbaru September 2021 <https://www.autobild.co.id/2021/08/download-gbwhatsapp-heymods-dan-gb-wa.html>`_
-2. Yo WhatsApp 
-3. Download WhatsApp Aero APK Terbaru
+2. `Download Fouad WhatsApp APK <https://www.sebuahutas.com/2021/08/download-fouad-whatsapp-fm-wa-apk.html>`_ 
+3. `Download WhatsApp APK Mod & Official Terbaru <https://www.sebuahutas.com/2021/08/link-download-whatsapp-mod-apk-terbaru.html>`_
 4. `WhatsApp Plus APK <https://www.autobild.co.id/2021/08/download-whatsapp-wa-plus-apk-versi.html>`_
 5. WhatsApp Transparan
 6. WhatsApp Clone 
@@ -105,12 +105,7 @@ Bagaimana cara update WA MOD versi terbaru?
 Jika WA MOD yang Anda gunakan memiliki versi terbaru, bagaimana cara update WA MOD nya?
 1. Biasanya, ketika WA MOD yang Anda gunakan mempunyai versi terbaru, pasti ada notifikasinya.
 2. Scroll ke bawah. Kemudian tekan 'update now'.
-3. Apabila tidak ada notifnya, maka Anda bisa memeriksanya dengan:
-- Tekan titik 3 di bagian sudut kanan aplikasi.
-- Pilih nama GB settings ataupun versi nama aplikasi yang Anda gunakan.
-- Klik updates.
-- Pilih check for update.
-- Maka akan tampil notif versi yang terbaru jika memang ada.
+3. Apabila tidak ada notifnya, maka Anda bisa memeriksanya dengan: a) Tekan titik 3 di bagian sudut kanan aplikasi. b) Pilih nama GB settings ataupun versi nama aplikasi yang Anda gunakan. b) Klik updates. c) Pilih check for update. d) Maka akan tampil notif versi yang terbaru jika memang ada.
 4. Klik open.
 5. Maka Anda akan dibawa ke situs WA untuk mendownload versi yang terbaru.
 6. kemudian, download aplikasinya.

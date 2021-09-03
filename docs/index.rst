@@ -103,6 +103,7 @@ Secara umum, perbedaan antara versi clone dengan unclone nya adalah bagian packa
 Bagaimana cara update WA MOD versi terbaru?
 
 Jika WA MOD yang Anda gunakan memiliki versi terbaru, bagaimana cara update WA MOD nya?
+
 1. Biasanya, ketika WA MOD yang Anda gunakan mempunyai versi terbaru, pasti ada notifikasinya.
 2. Scroll ke bawah. Kemudian tekan 'update now'.
 3. Apabila tidak ada notifnya, maka Anda bisa memeriksanya dengan: a) Tekan titik 3 di bagian sudut kanan aplikasi. b) Pilih nama GB settings ataupun versi nama aplikasi yang Anda gunakan. b) Klik updates. c) Pilih check for update. d) Maka akan tampil notif versi yang terbaru jika memang ada.

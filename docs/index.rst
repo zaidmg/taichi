@@ -19,7 +19,7 @@ Siapa pengembang Whatsapp GB Terbaru?
 
 Aplikasi Whatsapp GB terbaru memang tidak akan bisa anda temukan di Play store atau App store. Alasannya, memang dari pihak WhatsApp tentu tidak akan mengizinkan. Untuk diketahui, aplikasi ini memang ada beberapa jenisnya.p
 
-Penyebabnya, yaitu banyak pihak kedua yang mengembangkan atau memodifikasi aplikasi utama WhatsApp. Diantara banyak developer, ada empat pengembang yang yang cukup ternama yaitu `Fouad Mods <https://blogs.itb.ac.id/wikia/siapa-fouad-modifikator-wa-terbaru/>`_, Sam Mods, HeyMods, dan GBMods.
+Penyebabnya, yaitu banyak pihak kedua yang mengembangkan atau memodifikasi aplikasi utama WhatsApp. Diantara banyak developer, ada empat pengembang yang yang cukup ternama yaitu `<https://blogs.itb.ac.id/wikia/siapa-fouad-modifikator-wa-terbaru/>Fouad Mods`_, Sam Mods, HeyMods, dan GBMods.
 
 Keunggulan WhatsApp GB
 ==================

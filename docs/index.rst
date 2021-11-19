@@ -19,7 +19,7 @@ Siapa pengembang Whatsapp GB Terbaru?
 
 Aplikasi Whatsapp GB terbaru memang tidak akan bisa anda temukan di Play store atau App store. Alasannya, memang dari pihak WhatsApp tentu tidak akan mengizinkan. Untuk diketahui, aplikasi ini memang ada beberapa jenisnya.p
 
-Penyebabnya, yaitu banyak pihak kedua yang mengembangkan atau memodifikasi aplikasi utama WhatsApp. Diantara banyak developer, ada empat pengembang yang yang cukup ternama yaitu `<https://blogs.itb.ac.id/wikia/siapa-fouad-modifikator-wa-terbaru/> Fouad Mods`_, Sam Mods, HeyMods, dan GBMods.
+Penyebabnya, yaitu banyak pihak kedua yang mengembangkan atau memodifikasi aplikasi utama WhatsApp. Diantara banyak developer, ada empat pengembang yang yang cukup ternama yaitu `Fouad Mods <https://blogs.itb.ac.id/wikia/siapa-fouad-modifikator-wa-terbaru/>`_, Sam Mods, HeyMods, dan GBMods.
 
 Keunggulan WhatsApp GB
 ==================
@@ -46,7 +46,7 @@ Tema yang disediakan oleh WhatsApp GB sangat beragam. Bahkan, bisa mencapai hing
 
 - Ganti nada dering WhatsApp sesuai selera
 
-Sebagaimana fitur yang sudah banyak dikenal dan menjadi favorit banyak pengguna, menggunakan ringtone custom seperti suara Google ataupun nada dering lucu lainnya dapat kamu aplikasikan di GB WhatsApp. Lebih lanjut, berikut contoh cara membuat ringtone keren dengan `<https://www.dmo.or.id/cara-nada-dering-wa-menyebutkan-nama/> nada dering sebut nama`_.
+Sebagaimana fitur yang sudah banyak dikenal dan menjadi favorit banyak pengguna, menggunakan ringtone custom seperti suara Google ataupun nada dering lucu lainnya dapat kamu aplikasikan di GB WhatsApp. Lebih lanjut, berikut contoh cara membuat ringtone keren dengan `nada dering sebut nama <https://www.dmo.or.id/cara-nada-dering-wa-menyebutkan-nama/>`_.
 
 - Mudah Memutuskan Koneksi
 
@@ -90,8 +90,7 @@ Cara Menggunakan Dual WhatsApp GB
 
 Jika anda ingin menggunakan dual Whatsapp GB terbaru, setelah berhasil diinstal maka anda bisa mendaftarkan 2 nomor ponsel seperti WhatsApp biasanya. Berikutnya, Anda dapat mengikuti proses pendaftaran sesuai petunjuk. 
 
-Setelah sukses mendaftarkan ke dia nomor ponsel yang hendak dipakai, Anda bisa menggunakan salah satunya untuk akun Whatsapp bisnis. Sedangkan, Nomor yang satunya lagi digunakan sebagai WhatsApp pribadi. Cara lainnya untuk menggunakan dua aplikasi WA dallam satu waktu bersamaan adalah dengan `<https://www.sebuahutas.com/2021/09/wa-web-login-terbaru-dan-solusi-jika.html> login WA web`_.
-
+z
 Solusi Jika Terjadi Ban Di Akun Whatsapp GB
 =========================
 

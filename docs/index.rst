@@ -101,5 +101,5 @@ Meskipun jarang dijumpai, akan tetapi bisa saja para pengguna Whatsapp GB memper
 4. Kemudian, verifikasilah nomor handphone dan ingat jangan pernah restore atau mengembalikan data dan pesan dari WhatsApp Plus versi lama ke bawahnya. Ini akan sangat beresiko.
 5. Jika terdapat peringatan muncul di aplikasi WhatsApp GB, tekan tombol kembali Supaya notifikasi tersebut hilang.
 
-Aplikasi `WhatsApp GB terbaru<https://www.fedora.or.id/2021/11/download-gb-whatsapp-v905-terbaru-2021.html>`_ memang sudah tidak diragukan lagi memberikan pengaruh dan manfaat besar dalam komunikasi. Bisa dipastikan hampir semua orang sekarang ini yang memiliki smartphone juga mempunyai aplikasi ini di dalamnya. Pekerjaan, bisnis, edukasi, dan kehidupan sosial lainnya sangat terbantu dengan Whatsapp.
+Aplikasi `WhatsApp GB terbaru <https://www.fedora.or.id/2021/11/download-gb-whatsapp-v905-terbaru-2021.html>`_ memang sudah tidak diragukan lagi memberikan pengaruh dan manfaat besar dalam komunikasi. Bisa dipastikan hampir semua orang sekarang ini yang memiliki smartphone juga mempunyai aplikasi ini di dalamnya. Pekerjaan, bisnis, edukasi, dan kehidupan sosial lainnya sangat terbantu dengan Whatsapp.
 

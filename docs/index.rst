@@ -3,92 +3,78 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Download WA GB Terbaru 2021
+Cara Buat Nada Dering WhatsApp Sebut Nama Sendiri di Android
 ==================
 
-Meskipun mempunyai nama yang serupa, namun Whatsapp GB terbaru dan WhatsApp biasa ternyata bukan merupakan aplikasi yang sama. Ada fitur dan kelebihan yang berbeda antara satu dengan yang lainnya. Mungkin diantara Anda juga ada yang belum pernah mendengar WhatsApp GB?.
+Terkadang kita penasaran siapa gerangan yang mengirimkan pesan lewat WhatsApp. Jika dekat dengan HP, kita bisa langsung memegangnya dan membuka pesan tersebut. Lalu, bagaimana jika kita jauh dari HP atau memang sedang sangat sibuk?
 
-Wajar rasanya jika semakin hari mulai banyak orang yang pindah dari wa biasa ke WhatsApp GB. Alasannya, pada aplikasi MOD ini memang lebih banyak memberikan keuntungan kepada pengguna dibandingkan dengan WA biasa. Hal yang lebih menarik, cara mengunduhnya juga tidak sulit. 
+Tenang, Anda tidak perlu merasa penasaran lagi karena sudah ada aplikasi tertentu yang bisa membaca notifikasi WA. Jadi Anda akan segera tahu dari manakah pesan tersebut berasal. Terus bagaimana caranya? Mudah, Anda hanya harus membaca ulasannya di bawah ini terlebih dahulu.
 
-Whatsapp GB terbaru adalah aplikasi modifikasi WhatsApp yang diciptakan sedemikian rupa dengan penambahan fitur menarik serta unik, biasa disebut MOD. Ketika seseorang menggunakannya, maka ia bisa memperoleh banyak layanan atau fitur yang menguntungkan. Untuk mencoba fitur lengkap dari WhatsApp GB Terbaru 2021, kamu dapat langsung mendownloadnya di link berikut ini: https://www.pelita.or.id/download-gb-wa-terbaru-pro-apk-v9/.
+Cara Buat Nada Dering WA Sebut Nama di Android
 
-Keunggulan yang disukai dari WhatsApp GB ini salah satunya adalah mengenai privasi. Ini tidak ditemukan pada versi WhatsApp biasa. Contohnya, membaca pesan yang sudah dihapus sampai dengan kemampuannya mengirimkan pesan terjadwal. Aplikasi ini sukai dan aman. 
+Selama ini kita pasti menggunakan nada dering WA yang itu-itu saja. Setelah berapa lama, tentu akan terasa membosankan. Selain itu, Anda juga tidak akan tahu siapa pengirim dari pesan yang masuk ke WhatsApp tersebut.
 
-Siapa pengembang Whatsapp GB Terbaru?
-==================
+Kabar baiknya, sekarang sudah ada aplikasi yang bisa membaca notifikasi di HP, salah satunya adalah Notification Reader: Shouter. Aplikasi ini akan menyebutkan notifikasi apa saja yang masuk ke HP Anda, tidak hanya dari WhatsApp, namun juga aplikasi lainnya.
 
-Aplikasi Whatsapp GB terbaru memang tidak akan bisa anda temukan di Play store atau App store. Alasannya, memang dari pihak WhatsApp tentu tidak akan mengizinkan. Untuk diketahui, aplikasi ini memang ada beberapa jenisnya.p
+Bagaimana cara kerja dari aplikasi ini? Shouter bekerja layaknya asisten virtual. Aplikasi ini dibekali dengan kemampuan untuk membaca semua jenis notifikasi yang masuk ke HP. 
+Saat ada pesan maupun panggilan masuk, Shouter akan membaca siapa pengirimnya maupun isi dari pesan tersebut. Jadi, melalui aplikasi ini, Anda tidak akan dibuat penasaran terutama jika memang harus jauh dari HP. 
 
-Penyebabnya, yaitu banyak pihak kedua yang mengembangkan atau memodifikasi aplikasi utama WhatsApp. Diantara banyak developer, ada empat pengembang yang yang cukup ternama yaitu `Fouad Mods <https://blogs.itb.ac.id/wikia/siapa-fouad-modifikator-wa-terbaru/>`_, Sam Mods, HeyMods, dan GBMods.
+Anda akan mendengar jelas siapa pengirim pesan dan apa isinya, jadi bisa langsung membalasnya jika memang penting.
+Bagaimana Cara Mendapatkan Aplikasi Shouter?
 
-Keunggulan WhatsApp GB
-==================
+Kabar baiknya, aplikasi Shouter sudah bisa Anda download gratis dari Google Play dan App Store. Anda tinggal buka Google Play dan App Store untuk download aplikasi ini dan memasangnya di HP.
 
-Secara umum, aplikasi Whatsapp GB terbaru punya fitur atau keunggulan yang lebih lengkap daripada Whatsapp original. Lebih lengkapnya mengenai `perbandingan WhatsApp official dengan wa mod apk <https://www.autobild.co.id/2021/08/download-whatsapp-wa-apk-official-dan.html>`_ bisa dibaca lewat review Autobild.co.id. Berikut ini sejumlah kelebihan tersebut:
+Tidak perlu khawatir, aplikasi ini memiliki ukuran yang sangat minimalis, hanya sekitar 1,4 MB saja. Jadi tidak akan memenuhi memori internal HP sama sekali. Aplikasi ini pastinya tidak akan membebani RAM, jadi tidak akan mengganggu kinerja HP sama sekali. 
 
-- Keamanann
-ga
-WhatsApp GB mempunyai sistem keamanan yang cukup kuat. Terutama, untuk mengantisipasi banned dari pihak WhatsApp original. Dengan begitu, para pengguna wa modifikasi tersebut tidak usah khawatir tentang Keamanan saat menginstal aplikasinya di handphone. 
+Shouter juga bisa dipasang di hampir semua OS Android, minimal Anda harus memiliki Android dengan OS 4.3 ke atas (Jelly Bean). Terus, apa saja yang bisa dilakukan oleh Shouter? Ternyata, selain bisa membaca notifikasi, aplikasi ini juga bisa:
 
-- Update Sistem
+Memberitahukan level baterai selama charging.
+Memberitahukan kedekatan lokasi.
+Memberitahukan kondisi/level baterai.
+Memberitahukan nama penelpon ketika HP berdering.
+Memberitahukan waktu (hanya di versi pro).
+Voice reminder.
 
-WhatsApp modifikasi ini mempunyai update system juga yang cukup bagus. Pembaharuan bisa dilakukan secara manual dengan baik karena aktifnya para pengembang aplikasi. Pastinya, Anda juga harus rajin mengecek apabila ada pembaharuan sehingga versinya tidak tertinggal. 
+Penggunaan Shouter
 
-- Punya Fitur Pengiriman Pesan Bagus
+Shouter sudah sering digunakan secara kasual, yaitu oleh orang kebanyakan yang ingin asisten virtual membacakan notifikasi di HP. Namun, aplikasi ini juga sering atau disarankan untuk penggunaan ketika aktivitas atau profesi seperti di bawah ini:
 
-Aplikasi Whatsapp GB terbaru juga mempunyai fitur pesanan yang sangat bagus. Anda dapat menggunakannya untuk mengirim pesan terjadwal dan ini sangat membantu, terutama bagi mereka yang punya kesibukan. Tentu saja fitur ini shahih dan tidak kalah dengan wa original.
+Selama bersepeda/bermotor.
 
-Selain itu, WhatsApp GB juga dapat dipakai untuk membaca pesan yang telah terhapus. Sama seperti versi original, pesan yang sudah terkirim juga bisa anda hapus. Jadi, kapan lagi bisa memperoleh aplikasi sebagus ini?. 
+Untuk pengemudi truk atau mereka yang melakukan perjalanan jauh.
+Seorang gamer yang tidak ingin ketinggalan notifikasi game favoritnya.
+Anda bebas mengatur konfigurasi, aplikasi apa saja yang bisa dibaca oleh Shouter. Jika Anda ingin Shouter membacakan notifikasi WA, maka Anda harus memasukkan WA sebagai aplikasi yang terdaftar di Shouter.
+Cara Install dan Menggunakan Aplikasi Shouter
+Cara download, install, dan konfigurasi Shouter sangat mudah. Jika Anda belum pernah sebelumnya, maka bisa mempelajari tutorialnya di bawah ini:
+Pertama, download aplikasi Shouter terlebih dahulu bisa didownload gratis dari Google Play (Android) dan App Store (iOS).
+Selanjutnya buka Shouter, lalu pilih Bahasa Indonesia sebagai bahasa pengantar.
+Kemudian, klik Izinkan ketika Shouter meminta untuk mengakses kontak dan panggilan telepon.
+Selanjutnya akan pop up notifikasi, Anda tinggal pilih Yes untuk menyetujuinya.
+Selanjutnya, pilih Shouter dan klik Izinkan di Akses Notifikasi.
+Sekarang klik App Notification dan klik Enable.
+Lalu pilih Select Apps untuk memasukkan aplikasi apa saja yang bisa dibaca notifikasinya.
+Selanjutnya, pilih WhatsApp dan aplikasi-aplikasi lainnya sesuai dengan keinginan Anda.
+Selesai. Jika Anda kurang puas dengan pengaturannya, maka bisa klik Voice Settings. Di situ Anda bisa mengubah bahasa pengantar, laju bicara, dan tinggi nada.
+Sekarang, setiap kali ada notifikasi dari WhatsApp, Shouter akan membacakannya untuk Anda. Jadi akan segera tahu jika ada pesan penting yang memang harus dijawab dengan segera.
+Cara Lain Buat Nada Dering WA dengan Suara Kustom
+Shouter akan membaca notifikasi yang masuk ke HP secara otomatis, termasuk WA. Namun bagaimana jika Anda ingin nada dering WA menggunakan suara khusus? Tenang, ada tutorialnya untuk Anda, yaitu melalui situs Voice of Text. Berikut tutorialnya:
+Pertama, kunjungi https://www.voiceoftext.com/. 
+Setelah website terbuka, pilih Bahasa, apakah Bahasa Indonesia, Inggris dan bahasa-bahasa lainnya.
+Jika sudah, sekarang masukkan teks yang nantinya akan dijadikan sebagai nada dering WA. Anda bebas memasukkan kata apa saja, yang penting tidak lebih dari 200 karakter.
+Kemudian, klik Convert to Voice untuk menjadikan kata-kata di atas menjadi suara.
+Jika sudah, silakan unduh audio dalam format MP3 dan tunggu prosesnya hingga selesai.
+Setelah membuat nada dering kustom di atas, sekarang saatnya menjadikannya tersebut sebagai nada dering untuk notifikasi WhatsApp. Berikut langkah-langkahnya :
+Buka File Manager > Internal > Ringtones.
+Kemudian pindahkan audio MP3 yang sebelumnya Anda buat ke folder Ringtones.
+Jika sudah, buka WhatsApp dan masuk ke Pengaturan.
+Klik Notifikasi > Nada Notifikasi dan pilih nada dering yang dibuat sebelumnya.
+Selesai.
+ 
+Dengan aplikasi Shouter dan situs Voice of Text, nada dering WA akan otomatis menyebutkan namanya. Jadi Anda bisa tahu dengan akurat siapa pengirim pesan tersebut dan apakah perlu langsung dibalas.
 
-- Punya Banyak Pilihan Tema
 
-Tema yang disediakan oleh WhatsApp GB sangat beragam. Bahkan, bisa mencapai hingga ratusan pilihan tema yang ada. Para penggunanya dapat memilih ingin seperti apa modifikasi yang dilakukan kepada aplikasi sesuai dengan keinginan. 
 
-- Ganti nada dering WhatsApp sesuai selera
 
-Sebagaimana fitur yang sudah banyak dikenal dan menjadi favorit banyak pengguna, menggunakan ringtone custom seperti suara Google ataupun nada dering lucu lainnya dapat kamu aplikasikan di GB WhatsApp. Lebih lanjut, berikut contoh cara membuat ringtone keren dengan `nada dering sebut nama <https://www.dmo.or.id/cara-nada-dering-wa-menyebutkan-nama/>`_.
-
-- Mudah Memutuskan Koneksi
-
-Dengan aplikasi modifikasi ini, sudah dilengkapi juga dengan pemutus koneksi. Sehingga, Anda bisa menggunakannya untuk memutuskan koneksi di aplikasi WhatsApp tanpa harus memerlukan bantuan aplikasi lain. Fitur ini tidaklah dimiliki versi original. 
-
-- Menyembunyikan Tanda Ceklis
-
-Pada WhatsApp resmi, hanya bisa menyembunyikan tanda centang biru. Namun, pada Whatsapp GB terbaru bisa menyembunyikan centang biru ataupun centang dua. Ini tentunya menjadi kelebihan yang sangat menarik. 
-
-- Mengirim Pesan Tanpa Menyimpan Nomor
-
-Dengan versi WhatsApp GB terbaru akan sangat membantu anda untuk mengirimkan pesan kepada orang lain tanpa harus menyimpan nomornya. Fitur ini cukup membantu juga terutama bagi mereka yang bergelut di dunia marketing. 
-
-- Mendownload Status Orang Lain
-
-Fitur WhatsApp GB yang menarik lainnya juga bisa mengunduh status orang lain. Contohnya jika anda ingin menyimpan gambar pada status di kontak, maka tidak punya screenshot karena pada WhatsApp GB hal itu bisa dimungkinkan. 
-
-Atau, bisa juga jika status orang lain berbentuk teks ataupun video. Anda bisa mengunduhnya dan melihatnya kapan saja, karena tersimpan di dalam memori internal handphone. Jadi, akan lebih leluasa juga dalam melihatnya.
-
-- Mampu Mengirim Banyak File
-
-Fitur yang ada pada WhatsApp GB juga bisa mengirimkan banyak jenis file. Tidak hanya sekedar mengirimkan gambar, musik, maupun video. Dengan aplikasi ini anda bisa mengirimkan hingga 100 gambar sekaligus. 
-
-Cara download dan install WhatsApp GB terbaru
-==============================
-
-Mungkin anda sedang mencari informasi tentang bagaimana cara download Whatsapp GB terbaru?. Jika memang sedang mencari referensi ini, maka bisa lakukan langkah-langkah sebagai berikut:
-
-1. Kunjungi situs untuk mengunduh WhatsApp GB hanya di http://wameta.id.
-2. Berikutnya, ada berbagai jenis variasi mode WhatsApp dan carilah GB WhatsApp. 
-3. Lalu, Klik tombol download.
-4. Berikutnya, anda akan masuk ke jendela baru dan kemudian klik kembali unduh. 
-6. Tunggulah proses pengunduhan selesai hingga 100%. Jika sudah, maka klik simpan file. 
-7. Maka, file APK WhatsApp GB sudah berhasil diunduh.
-8. Untuk menginstal WhatsApp GB maka anda klik atau tap Apk nya.
-9. Jika memang belum memperoleh perizinan, maka buka pengaturan di handphone. Pilih keamanan, dan kemudian pilih izinkan dari sumber aplikasi tidak dikenal. 
-10. Berikutnya, anda tinggal mengikuti panduan seperti biasa layaknya menginstal aplikasi WhatsApp versi original. 
-
-Cara Menggunakan Dual WhatsApp GB
-==================
-
-Jika anda ingin menggunakan dual Whatsapp GB terbaru, setelah berhasil diinstal maka anda bisa mendaftarkan 2 nomor ponsel seperti WhatsApp biasanya. Berikutnya, Anda dapat mengikuti proses pendaftaran sesuai petunjuk. 
 
 Solusi Jika Terjadi Ban Di Akun Whatsapp GB
 =========================

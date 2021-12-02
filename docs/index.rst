@@ -13,7 +13,7 @@ Tenang, Anda tidak perlu merasa penasaran lagi karena sudah ada aplikasi tertent
 Cara Buat Nada Dering WA Sebut Nama di Android
 ==================
 
-Selama ini kita pasti menggunakan nada dering WA yang itu-itu saja. Setelah berapa lama, tentu akan terasa membosankan. Selain itu, Anda juga tidak akan tahu siapa pengirim dari pesan yang masuk ke WhatsApp tersebut.
+Selama ini kita pasti `mengganti nada dering WA <https://www.wameta.id/ganti-nada-dering-wa-dengan-lagu/>`_ yang itu-itu saja. Setelah berapa lama, tentu akan terasa membosankan. Selain itu, Anda juga tidak akan tahu siapa pengirim dari pesan yang masuk ke WhatsApp tersebut.
 
 Kabar baiknya, sekarang sudah ada aplikasi yang bisa membaca notifikasi di HP, salah satunya adalah `Notification Reader: Shouter <https://news.google.com/articles/CAIiEOxZHoTcvT1ZvNlC1m_sDr0qGQgEKhAIACoHCAowgoytCzCPl8UDMIa3rgc?uo=CAUiP2h0dHBzOi8vd3d3LmphbWJpbm93LmNvbS9uYWRhLWRlcmluZy13YS1zZWJ1dC1uYW1hLXBlbmdpcmltbnlhL9IBAA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_. Aplikasi ini akan menyebutkan notifikasi apa saja yang masuk ke HP Anda, tidak hanya dari WhatsApp, namun juga aplikasi lainnya.
 

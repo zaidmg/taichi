@@ -3,89 +3,73 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cara Buat Nada Dering WhatsApp Sebut Nama Sendiri di Android
-==================
+Cara Membuat Suara Google Keren Terbaru 2022
+======================================
 
-Terkadang kita penasaran siapa gerangan yang mengirimkan pesan lewat WhatsApp. Jika dekat dengan HP, kita bisa langsung memegangnya dan membuka pesan tersebut. Lalu, bagaimana jika kita jauh dari HP atau memang sedang sangat sibuk?
+Perkembangan dunia digital yang sudah semakin canggih tentu memberikan keuntungan tersendiri bagi Anda sebagai pengguna. Hadirnya berbagai bentuk aplikasi yang membantu memberikan kemudahan kepada masyarakat akan menjadi sebuah daya tarik tersendiri. Adanya whatsapp tentu menjadi salah satu bentuk dari perkembangan dunia teknologi yang sudah semakin berkembang dewasa ini.
 
-Tenang, Anda tidak perlu merasa penasaran lagi karena sudah ada aplikasi tertentu yang bisa membaca notifikasi WA. Jadi Anda akan segera tahu dari manakah pesan tersebut berasal. Terus bagaimana caranya? Mudah, Anda hanya harus membaca ulasannya di bawah ini terlebih dahulu.
+Sebagai pengguna tentu Anda bisa melakukan beragam upaya modifikasi dengan maksimal untuk menikmati kualitas pemakaiannya. Seperti dengan menambahkan sound text yang unik pada WA yang Anda miliki tentu menjadi sebuah ide bagus untuk Anda lakukan. Sebenarnya ada beberapa cara menggunakan sound text unik di wa yang bisa coba Anda terapkan dengan sangat mudah sekarang.
 
-Cara Buat Nada Dering WA Sebut Nama di Android
-==================
+Tentunya sebagai seorang pengguna Anda akan mendapatkan banyak sekali beragam daya tarik dan juga tools yang tersedia pada WA. Beragam tools yang tersedia sebenarnya menjadi sebuah penunjang bagi para pengguna untuk menikmati adanya kepuasan. Anda juga bisa mendapatkan banyak keuntungan saat menikmati berbagai pilihan sound text yang tersedia tentunya.
 
-Selama ini kita pasti `mengganti nada dering WA <https://www.wameta.id/ganti-nada-dering-wa-dengan-lagu/>`_ yang itu-itu saja. Setelah berapa lama, tentu akan terasa membosankan. Selain itu, Anda juga tidak akan tahu siapa pengirim dari pesan yang masuk ke WhatsApp tersebut.
+Kali ini tentu akan kami uraikan mengenai beberapa pilihan sound text yang bisa Anda gunakan dengan mudah dan menyenangkan. Bahkan beberapa pilihan tersebut akan membuat Anda mendapatkan kenyamanan dalam menggunakannya. Simak juga bagaimana cara untuk bisa menggunakan berbagai pilihan sound text tersebut agar hasilnya sesuai harapan.
 
-Kabar baiknya, sekarang sudah ada aplikasi yang bisa membaca notifikasi di HP, salah satunya adalah `Notification Reader: Shouter <https://news.google.com/articles/CAIiEOxZHoTcvT1ZvNlC1m_sDr0qGQgEKhAIACoHCAowgoytCzCPl8UDMIa3rgc?uo=CAUiP2h0dHBzOi8vd3d3LmphbWJpbm93LmNvbS9uYWRhLWRlcmluZy13YS1zZWJ1dC1uYW1hLXBlbmdpcmltbnlhL9IBAA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_. Aplikasi ini akan menyebutkan notifikasi apa saja yang masuk ke HP Anda, tidak hanya dari WhatsApp, namun juga aplikasi lainnya.
+Berikut Akan Kami Ulas Cara Menggunakan Sound Text Unik Di WA Mudah Dan Cepat
+======================================
 
-Bagaimana cara kerja dari aplikasi ini? Shouter bekerja layaknya asisten virtual. Aplikasi ini dibekali dengan kemampuan untuk membaca semua jenis notifikasi yang masuk ke HP. 
-Saat ada pesan maupun panggilan masuk, Shouter akan membaca siapa pengirimnya maupun isi dari pesan tersebut. Jadi, melalui aplikasi ini, Anda tidak akan dibuat penasaran terutama jika memang harus jauh dari HP. 
+Coba Saja Gunakan Sound Text Tokoh Kartun Bernama Doraemon
+======================================
+Tentunya sekarang ini sudah ada banyak sekali berbagai kartun yang mulai memiliki daya tarik tersendiri bagi masyarakat. Hadirnya daya tarik dari masing masing tokoh kartun memberikan keuntungan tersendiri bagi para pengguna. Seperti misalnya pada tokoh kartun doraemon yang saat ini banyak memiliki penggemar karena suaranya yang lucu dan menggemaskan.
 
-Baca juga: `Cara Buat Nada Dering Sebut Nama Sendiri <https://www.dmo.or.id/cara-nada-dering-wa-menyebutkan-nama/>`_
+Anda bisa menjadikan suara dari tokoh kartun doraemon sebagai pilihan menarik untuk sound text whatsaap sekarang ini. Tentunya ini akan memberikan keunggulan tersendiri bagi Anda sebagai pengguna jika gunakan suara dari doraemon. Anda bisa mendownloadnya pada situs yang tersedia dengan tampilan berbahasa inggris yang dapat di manfaatkan tentunya.
+Jika Anda memang ingin melakukan pemasangan pada suara doraemon maka bisa langsung mendowloadnya dengan beberapa cara. Beberapa cara yang dapat coba terapkan secara tepat, diantaranya adalah:
 
-Anda akan mendengar jelas siapa pengirim pesan dan apa isinya, jadi bisa langsung membalasnya jika memang penting.
+1. Cobalah untuk membuka website penyedia suara doraemon yaitu http://vo.codes sebagai langkah awal dalam mendownload.
+2. Setelah masuk pada website tersebut maka tugas selanjutnya adalah memilih kategori suara sesuai keinginan. Jika ingin download mp3 suara doraemon maka cukup ketikkan saja cartoons and anime pada kolom pencarian.
+3. Jika sudah maka pada menu info speaker sendiri Anda harus memilih salah satu suara dari tokoh kartun pilihan, misalnya saja doraemon. Jangan lupa untuk mengklik tombol speak yang tersedia pada pilihan menunya.
+4. Suara dari tokoh kartun pilihan Anda akan muncul dan jika cocok maka unduh dengan cara membuka menu result dan kemudian download.
+5. Proses selesai dan Anda bisa menggunakan sound text ini pada WA Anda.
 
-Bagaimana Cara Mendapatkan Aplikasi Shouter?
-==============================
+Coba cara menggunakan sound text unik di WA dengan suara wanita yang manja
+======================================
 
-Kabar baiknya, aplikasi Shouter sudah bisa Anda download gratis dari Google Play dan App Store. Anda tinggal buka Google Play dan App Store untuk download aplikasi ini dan memasangnya di HP.
+Perlu Anda ketahui bahwa seorang wanita sendiri hadir sebagai makhluk yang sangatlah menarik bagi kaum pria. Biasanya wanita yang memiliki suara khas dan manja akan membuat para lelaki menjadi tertarik. Bahkan sampai ada orang yang menjadikannya sebagai sebuah sound text pada aplikasi WA yang dimiliki tentunya.
 
-Tidak perlu khawatir, aplikasi ini memiliki ukuran yang sangat minimalis, hanya sekitar 1,4 MB saja. Jadi tidak akan memenuhi memori internal HP sama sekali. Aplikasi ini pastinya tidak akan membebani RAM, jadi tidak akan mengganggu kinerja HP sama sekali. 
+Sebenarnya untuk bisa membuat sound berlatar belakang suara wanita manja sendiri tidaklah begitu sulit untuk dilakukan. Anda hanya perlu untuk menggunakan tools pengubah teks dengan cara cara yang mudah. Beberapa cara ini akan membantu Anda mendapatkan kesempatan gunakan sound bersuara wanita yang manja, diantaranya adalah:
 
-Shouter juga bisa dipasang di hampir semua OS Android, minimal Anda harus memiliki Android dengan OS 4.3 ke atas (Jelly Bean). Terus, apa saja yang bisa dilakukan oleh Shouter? Ternyata, selain bisa membaca notifikasi, aplikasi ini juga bisa:
+- Pertama tama Anda harus terlebih dahulu untuk membuka website dari https://botika.online/texttospeech/ sebagai langkah awalnya.
+- Setelah itu anda akan bertemu dengan kolom kosong dan isilah teks pada kolom tersebut sesuai keinginan.
+- Jika sudah selesai, Anda perlu untuk memilih berbagai jenis suara manja yang sesuai kenginan mulai dari female 1 hingga banyak pilihan lainnya.
+- Jangan lupa untuk centang terlebih dahulu kode captcha yang tersedia sebagai sebuah bukti bahwa Anda bukanlah sebuah robot.
+- Lakukan download dan prosesnya akan berlangsung hingga selesai dan nantinya akan tersimpan pada android Anda. Jika ingin mendengarkan hasil audio yang telah di download maka tekan saja tombol play yang tersedia.
 
-1. Memberitahukan level baterai selama charging.
-2. Memberitahukan kedekatan lokasi.
-3. Memberitahukan kondisi/level baterai.
-4. Memberitahukan nama penelpon ketika HP berdering.
-5. Memberitahukan waktu (hanya di versi pro).
-6. Voice reminder.
+Yuk coba gunakan sound text dari anime naruto sesuai keinginan
+======================================
 
-Tutorial terkait: `Cara Ganti Nada Dering WA di Android dan iPhone <https://news.google.com/articles/CAIiEIsuCQ7zNqQeLw0BYcHrODMqGQgEKhAIACoHCAowqNamCzCQ4b4DMPbKkAc?uo=CAUiN2h0dHBzOi8vd3d3LnBlbGl0YS5vci5pZC9jYXJhLW1lbmdnYW50aS1uYWRhLWRlcmluZy13YS_SAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_
+Mungkin Anda merupakan salah satu penggemar dari serial anime berjudul naruto bukan? Tentu sangat sayang jika tidak menggunakan suaranya pada WA. Padahal untuk bisa menggunakan suara asli dari serial anime naruto sendiri sangatlah mudah loh untuk dilakukan. Coba saja lakukan langkah langkah berikut ini agar Anda bisa menerapkan yang terbaik untuk pendownload-an.
 
-Penggunaan Shouter
-==================
+Sebenarnya untuk bisa melakukan pembuatannya sendiri ada setidaknya dua rekomendasi yang bisa Anda pakai sebagai pengguna. Anda bisa menggunakan https.//www.vo.codes atau bisa pula menggunakan https://uberduck.ai sebagai pilihannya. Keduanya tentu memiliki keunikan masing masing yang bisa Anda nikmati sebagai pengguna suara sound text tentunya.
+Sebenarnya vo sendiri hadir sebagai sebuah tools yang sekarang ini memiliki popularitas yang jauh lebih tnggi. Bahkan saat ini namanya telah berganti sehingga membuatnya jauh lebih terkenal pada setiap masyarakat. Untuk dapat mendownload mp3 suara kartun naruto sendiri cara cara yang dapat Anda terapkan diantaranya adalah:
 
-Shouter sudah sering digunakan secara kasual, yaitu oleh orang kebanyakan yang ingin asisten virtual membacakan notifikasi di HP. Namun, aplikasi ini juga sering atau disarankan untuk penggunaan ketika aktivitas atau profesi seperti di bawah ini:
+- Pertama tama Anda harus masuk terlebih dahulu pada https://fakeyou.com/ sebagai langkah awal untuk mendownload.
+- Setelah Anda masuk pada websitenya maka kemudian perlu memilih kategori dari suara yaitu anime pada kolom pencarian yang tersedia.
+- Jika sudah maka Anda akan menemukan berbagai pilihan karakter dari suara naruto uzumaki yang tersedia. Tugas Anda adalah memilih salah satu dari beragam pilihan yang tersedia untuk digunakan.
+- Masukkanlah teks yang sesuai dengan keinginan Anda dalam bentuk bahasa inggris.
+- Jika sudah selesai maka klik speak dan lakukan download hingga prosesnya selesai untuk dilakukan.
+Tentunya jika Anda ingin mendownload sound text naruto pada website tersebut maka perlu agar mendaftarkan akun terlebih dahulu. Ini penting agar Anda bisa melakukan download dengan mudah pada situs https://fakeyou.com/ nantinya.
 
-Selama bersepeda/bermotor.
+Ini dia, coba saja gunakan sound text dari suara BTS korea
+======================================
 
-- Untuk pengemudi truk atau mereka yang melakukan perjalanan jauh.
-- Seorang gamer yang tidak ingin ketinggalan notifikasi game favoritnya.
-- Anda bebas mengatur konfigurasi, aplikasi apa saja yang bisa dibaca oleh Shouter. Jika Anda ingin Shouter membacakan notifikasi WA, maka Anda harus memasukkan WA sebagai aplikasi yang terdaftar di Shouter.
+Tentunya tren kpop saat ini sudah banyak sekali masuk kedalam kehidupan setiap orang dan seakan akan membuat banyak orang menjadi candu. Bahkan beberapa grub kpop yang saat ini hadir telah berhasil mencuri perhatian banyak orang, salah satunya adalah BTS. Banyak sekali anak muda yang saat ini begitu menggandrungi suara dari personil BTS tanpa terkecuali.
 
-Cara Install dan Menggunakan Aplikasi Shouter
-==================
+Mungkin Anda adalah salah satu orang yang benar benar fans dari BTS dan ingin agar suara personilnya selalu terdengar di telinga. Untuk itu maka Anda bisa menjadikan suara dari setiap personilnya sebagai sound text dari WA yang digunakan tentunya. Bahkan untuk melakukan download sendiri sangatlah mudah untuk Anda lakukan, dimana Anda hanya perlu ikuti langkah langkah berikut ini:
 
-Cara download, install, dan konfigurasi Shouter sangat mudah. Jika Anda belum pernah sebelumnya, maka bisa mempelajari tutorialnya di bawah ini:
+1. Pertama tama hanya perlu membuka situs dari https://soundoftext.com/ sebagai langkah awalnya.
+2. Setelah itu Anda perlu memilih bahasa korea pada pilihan bahasa tersedia.
+3. Masukkanlah kalimat yang ingin Anda jadikan sebagai sebuah sound text nantinya dari suara personil BTS yang di inginkan.
+4. Setelah itu hanya perlu klik submit dan kemudian unduhlah mp3 dengan menekan tombol download yang tersedia pada pilihan.
+5. Tunggulah hingga prosesnya selesai dan suara BTS bisa tersimpan pada android milik Anda nantinya.
 
-1. Pertama, download aplikasi Shouter terlebih dahulu bisa didownload gratis dari Google Play (Android) dan App Store (iOS).
-2. Selanjutnya buka Shouter, lalu pilih Bahasa Indonesia sebagai bahasa pengantar.
-3. Kemudian, klik Izinkan ketika Shouter meminta untuk mengakses kontak dan panggilan telepon.
-4. Selanjutnya akan pop up notifikasi, Anda tinggal pilih Yes untuk menyetujuinya.
-5. Selanjutnya, pilih Shouter dan klik Izinkan di Akses Notifikasi.
-6. Sekarang klik App Notification dan klik Enable.
-7. Lalu pilih Select Apps untuk memasukkan aplikasi apa saja yang bisa dibaca notifikasinya.
-8. Selanjutnya, pilih WhatsApp dan aplikasi-aplikasi lainnya sesuai dengan keinginan Anda.
-9. Selesai. Jika Anda kurang puas dengan pengaturannya, maka bisa klik Voice Settings. Di situ Anda bisa mengubah bahasa pengantar, laju bicara, dan tinggi nada.
-10. Sekarang, setiap kali ada notifikasi dari WhatsApp, Shouter akan membacakannya untuk Anda. Jadi akan segera tahu jika ada pesan penting yang memang harus dijawab dengan segera.
-
-Cara Lain Buat Nada Dering WA dengan Suara Kustom
-==================
-
-Lihat juga: `Cara Ganti Nada Dering dengan Suara Google <https://www.autobild.co.id/2021/05/cara-ganti-nada-dering-wa-suara-google.html>`_
-
-Shouter akan membaca notifikasi yang masuk ke HP secara otomatis, termasuk WA. Namun bagaimana jika Anda ingin nada dering WA menggunakan suara khusus? Tenang, ada tutorialnya untuk Anda, yaitu melalui situs Voice of Text. Berikut tutorialnya:
-
-1. Pertama, kunjungi https://www.voiceoftext.com/. 
-2. Setelah website terbuka, pilih Bahasa, apakah Bahasa Indonesia, Inggris dan bahasa-bahasa lainnya.
-3. Jika sudah, sekarang masukkan teks yang nantinya akan dijadikan sebagai nada dering WA. Anda bebas memasukkan kata apa saja, yang penting tidak lebih dari 200 karakter.
-4. Kemudian, klik Convert to Voice untuk menjadikan kata-kata di atas menjadi suara.
-5. Jika sudah, silakan unduh audio dalam format MP3 dan tunggu prosesnya hingga selesai.
-6. Setelah membuat nada dering kustom di atas, sekarang saatnya menjadikannya tersebut sebagai nada dering untuk notifikasi WhatsApp. Berikut langkah-langkahnya :
-7. Buka File Manager > Internal > Ringtones.
-8. Kemudian pindahkan audio MP3 yang sebelumnya Anda buat ke folder Ringtones.
-9. Jika sudah, buka WhatsApp dan masuk ke Pengaturan.
-10. Klik Notifikasi > Nada Notifikasi dan pilih nada dering yang dibuat sebelumnya.
-11. Selesai.
- 
-Dengan aplikasi Shouter dan situs Voice of Text, nada dering WA akan otomatis menyebutkan namanya. Jadi Anda bisa tahu dengan akurat siapa pengirim pesan tersebut dan apakah perlu langsung dibalas.
+Nah, jika Anda ingin memasang suara pilihan pada WA maka caranya sangatlah mudah dimana Anda hanya perlu masuk pada apk. Kemudian masuklah pada meu pengaturan dan pilih menu notifikasi yang tersedia dalam pilihannya. Pilih nada notifikasi yang Anda inginkan dan pilihlah suara yang sebelumnya sudah di download.
+Mudah bukan untuk menerapkan cara menggunakan sound text unik di WA dengan mudah dan juga lucu, semoga ini dapat bermanfaat ya.

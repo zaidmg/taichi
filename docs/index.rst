@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cara Membuat Suara Google Keren Terbaru 2022
+Cara Membuat Suara Google Keren di WhatsApp Terbaru 2022
 ======================================
 
 Perkembangan dunia digital yang sudah semakin canggih tentu memberikan keuntungan tersendiri bagi Anda sebagai pengguna. Hadirnya berbagai bentuk aplikasi yang membantu memberikan kemudahan kepada masyarakat akan menjadi sebuah daya tarik tersendiri. Adanya whatsapp tentu menjadi salah satu bentuk dari perkembangan dunia teknologi yang sudah semakin berkembang dewasa ini.
@@ -21,7 +21,7 @@ Coba Saja Gunakan Sound Text Tokoh Kartun Bernama Doraemon
 Tentunya sekarang ini sudah ada banyak sekali berbagai kartun yang mulai memiliki daya tarik tersendiri bagi masyarakat. Hadirnya daya tarik dari masing masing tokoh kartun memberikan keuntungan tersendiri bagi para pengguna. Seperti misalnya pada tokoh kartun doraemon yang saat ini banyak memiliki penggemar karena suaranya yang lucu dan menggemaskan.
 
 Anda bisa menjadikan suara dari tokoh kartun doraemon sebagai pilihan menarik untuk sound text whatsaap sekarang ini. Tentunya ini akan memberikan keunggulan tersendiri bagi Anda sebagai pengguna jika gunakan suara dari doraemon. Anda bisa mendownloadnya pada situs yang tersedia dengan tampilan berbahasa inggris yang dapat di manfaatkan tentunya.
-Jika Anda memang ingin melakukan pemasangan pada suara doraemon maka bisa langsung mendowloadnya dengan beberapa teknik `sound of text anime <https://www.technolati.com/2021/12/sound-of-text-wa-suara-anime-dan-wanita.html`_. Beberapa cara yang dapat coba terapkan secara tepat, diantaranya adalah:
+Jika Anda memang ingin melakukan pemasangan pada suara doraemon maka bisa langsung mendowloadnya dengan beberapa teknik `sound of text anime <https://www.technolati.com/2021/12/sound-of-text-wa-suara-anime-dan-wanita.html>`_. Beberapa cara yang dapat coba terapkan secara tepat, diantaranya adalah:
 
 1. Cobalah untuk membuka website penyedia suara doraemon yaitu http://vo.codes sebagai langkah awal dalam mendownload.
 2. Setelah masuk pada website tersebut maka tugas selanjutnya adalah memilih kategori suara sesuai keinginan. Jika ingin download mp3 suara doraemon maka cukup ketikkan saja cartoons and anime pada kolom pencarian.

@@ -6,15 +6,13 @@
 Cara Buat Suara Google di Hp dan PC Terbaru
 ======================================
 
-Suara Google yang Lagi Trending Saat Ini
-==================
 Sebagai pengguna smartphone, kamu tentunya tidak asing dengan aplikasi YouTube dan TikTok. Di kedua aplikasi tersebut kamu dapat menyaksikan berbagai macam video yang unik, menarik, juga informatif.
 
 Jika kamu perhatikan pada konten video saat ini, para konten kreator banyak yang menyematkan suara seperti robot pada video mereka. Suara tersebut menyerupai suara text-to-speech yang terdapat pada Google Translate.
 
 Suara Google ini membuat suatu konten video jadi lebih lucu dan menarik karena karakter suara Google Translate yang datar dan sedikit berbeda dengan nuansa video keseluruhan.
 
-Suara Google tersebut selain dipakai di konten video, banyak juga yang memakainya untuk suara nada dering agar terdengar unik dan tidak biasa. 
+Suara Google tersebut selain dipakai di konten video, banyak juga yang memakainya untuk suara nada dering agar terdengar unik dan tidak biasa. kamu bisa juga mempelajari ini lebih jauh di artikel `cara buat suara google di hp android <https://news.google.com/articles/CAIiEHWjgCW00Nw2y0EHFhg9LZ0qGQgEKhAIACoHCAow38imCzDH074DMOufkAc?uo=CAUiTWh0dHBzOi8vd3d3LnNlYnVhaHV0YXMuY29tLzIwMjIvMDIvY2FyYS1tZW1idWF0LXN1YXJhLWdvb2dsZS1kaS1ocC10YW5wYS5odG1s0gEA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ yang diulas oleh tim ahli teknologi dari Sebuahutas.
 
 Cara Merekam Suara Google 
 =================
@@ -35,6 +33,8 @@ Hasil teks yang sudah diubah dapat diunduh menjadi file MP3 dan bisa dipakai unt
 •	Setelah mengetik kalimat dan memilih bahasa yang diinginkan, klik tombol Convert to Voice berwarna biru di bagian bawah kolom teks.
 •	Jika suara Google sudah kamu dapat langsung mengunduh suara tersebut dengan mengklik tombol Download berwarna biru.
 •	Apabila kamu belum puas dengan suara yang dihasilkan, kamu bisa mengulangi langkah-langkah di atas untuk melakukan cara merekam suara Google.
+
+Artikel terkait: https://whitepaper.co.id/cara-buat-rekam-dan-simpan-suara-google/
 
 Cara Merekam Suara Google Melalui PC
 -----------------------------
@@ -69,7 +69,7 @@ Salah satu aplikasi yang umumnya dipakai adalah Easy Voice Recorder. Sebelum mer
 •	Setelah itu, tekan tombol centang di sebelah kanan tombol Record untuk menghentikan perekaman.
 •	Kemudian, untuk mendengarkan rekaman suara Google, pergi ke menu Listen.
 
-Dengan cara merekam suara Google yang sangat mudah ini, kamu dapat menggunakan suara Google dalam berbagai bahasa pilihan kamu sebagai nada dering notifikasi WhatsApp atau disematkan ke dalam konten video TikTok, Instagram, atau YouTube.
+Dengan cara merekam suara Google yang sangat mudah ini, kamu dapat menggunakan suara Google dalam berbagai bahasa pilihan kamu sebagai nada dering notifikasi WhatsApp atau disematkan ke dalam konten video TikTok, Instagram, atau YouTube. Cara ini bisa juga kamu terapkan untuk teknik `nada dering sebut nama <https://news.google.com/articles/CAIiELqKPqSI0e-WSneX8486pSwqGQgEKhAIACoHCAowksmmCzD6074DMMqTkAc?uo=CAUiN2h0dHBzOi8va2FyaW5vdi5jby5pZC9jYXJhLWJ1YXQtbmFkYS1kZXJpbmctc2VidXQtbmFtYS_SAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ di aplikasi WA.
 
 Penutup Panduan Suara Google
 ==================

@@ -85,4 +85,4 @@ Daftar Isi
    :maxdepth: 2
 
    style-guide
-   download-nada-dering/indexContents
+   download-nada-dering/index

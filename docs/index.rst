@@ -78,7 +78,7 @@ Demikianlah informasi mengenai suara Google yang sedang happening saat ini beser
 Aplikasi perekam ini digunakan untuk mendapatkan suara Google lebih mudah. Semoga informasi ini berguna untuk kamu yang sedang mencari cara merekam suara Google untuk membuat nada notifikasi kamu semakin anti-mainstream atau mencari efek suara yang menarik untuk konten TikTok. Selamat mencoba!
 
 ********
-Daftar Isi
+Contents
 ********
 
 .. toctree::

@@ -76,3 +76,11 @@ Penutup Panduan Suara Google
 Demikianlah informasi mengenai suara Google yang sedang happening saat ini beserta dua cara merekam suara Google. Kamu dapat merekam suara Google melalui PC atau melalui smartphone dengan sebuah aplikasi perekam. 
 
 Aplikasi perekam ini digunakan untuk mendapatkan suara Google lebih mudah. Semoga informasi ini berguna untuk kamu yang sedang mencari cara merekam suara Google untuk membuat nada notifikasi kamu semakin anti-mainstream atau mencari efek suara yang menarik untuk konten TikTok. Selamat mencoba!
+
+Contents
+
+.. toctree::
+   :maxdepth: 2
+
+   style-guide
+   download-nada-dering/indexContents

@@ -8,7 +8,8 @@ Dengan mempunyai `nada dering sendiri <https://www.technolati.com/2022/04/buat-n
 Di masa sekarang, Anda dapat dengan mudah mencari berbagai ringtone di berbagai website penyedianya. Tidak perlu harus instal aplikasi atau pun mendatangi kebagian servis untuk hanya sekedar mengganti ringtone anda. Cukup dengan mengunduh file suara, kemudian melakukan pengaturan supaya nada dering di handphone anda berubah.
 
 Cara Download Nada Dering MP3 dari Youtube
-==========================
+----------------
+
 Sebelum bisa merubah ringtone atau nada dering pemberitahuan MP3, sebelumnya anda harus lebih dahulu mempunyai file nada dering tersebut. Ada sejumlah sumber referensi yang bisa anda gunakan untuk mendapatkan nada dering MP3 yang keren dan menarik ini.
 
 Salah satunya, dengan mencari nada dering berupa musik dari YouTube. Ada beberapa keunggulannya saat Anda `download nada dering MP3 <https://www.sebuahutas.com/2022/03/200-download-nada-dering-wa-iphone-lucu.html>`_ dari YouTube ini, yaitu sebagai berikut:
@@ -26,7 +27,7 @@ Ketika anda melakukan streaming, akan terpengaruh oleh kepala kualitas koneksi i
 Oleh karena itulah, memperoleh nada dering secara offline akan lebih bagus. Anda bisa menjadikan file audio tersebut menjadi nada dering untuk banyak jenis handphone Android misalnya MP3. Ini akan menjadi pilihan bagus untuk Anda yang merupakan penikmat musik sejati.
 
 Download Nada Dering MP3 Melalui Aplikasi dan Situs
-===================
+----------------
 
 Agar bisa mengunduh nada dering dari YouTube ke dalam format MP3 Anda dapat melakukannya dengan beberapa cara. Salah satunya, yaitu lewat bantuan aplikasi.
 

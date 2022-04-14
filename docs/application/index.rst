@@ -5,15 +5,17 @@ Tahukan kamu bahwa teknologi text to speech sedang ramai diperbincangkan? Teknol
 
 Teknologi text to speech ini digunakan beberapa negara maju untuk memenuhi kebutuhan sehari- hari, ada pula yang digunakan untuk mengembangkan dunia bisnis dan berdampak positif atau memberikan kemudahan pada dunia pendidikan.
 
-Jadi, dapat disimpulkan secara sederhana bahwa teknologi text to speech ini merupakan teknologi yang dapat kamu gunakan secara gratis dan berbayar yaitu mengubah teks menjadi suara. Sehingga, teknologi ini dapat membantu kamu untuk beberapa keperluan. Salah satunya aplikasi Narrator's Voice.
+Jadi, dapat disimpulkan secara sederhana bahwa teknologi text to speech ini merupakan teknologi yang dapat kamu gunakan secara gratis dan berbayar yaitu mengubah teks menjadi suara. Sehingga, teknologi ini dapat membantu kamu untuk beberapa keperluan. Salah satunya aplikasi Narrator's Voice. Untuk mengubah teks menjadi suara tanpa aplikasi, kamu bisa menggunakan metode `cara buat suara Google <https://www.sebuahutas.com/2022/02/cara-membuat-suara-google-di-hp-tanpa.html>`_ berikut ini dari tim SebuahUtas.
 
 Apa Itu Aplikasi Narrator's Voice?
+--------------
 
 Aplikasi Narrator's Voice merupakan sebuah aplikasi text to speech yang akan membantu kamu untuk memenuhi kebutuhanmu, aplikasi ini bukan aplikasi biasa. Alasannya karena ada beberapa hal menarik yang dapat kamu rasakan saat menggunakan aplikasi ini melalui fitur – fitur yang dibangun di dalam aplikasi tersebut.
 
 Selain itu, aplikasi ini juga dilengkapi dengan suara bawaan yang dapat mengkonversi teks ke file audio berbentuk MP3 atau MP4. Sehingga, dengan adanya narrator tersebut kamu para pengguna dapat merekam diri sendiri dan menambahkan beberapa suara efek yang tersedia dalam pilihan pada aplikasi tersebut.
 
 Cara Pakai Aplikasi Narrator's Voice
+----------------
 
 Buat kamu yang ingin menggunakan aplikasi ini, kamu bisa memberi langkah awal untuk memastikan bahwa kamu sudah mempunyai aplikasi tersebut pada perangkat Android maupun iOS. Setelah itu, segera amu install dan sekarang kamu sudah bisa menggunakan aplikasi ini.
 
@@ -43,3 +45,5 @@ Disini kamu akan menemukan berbagai fitur – fitur utama dari aplikasi Narrator
 5 Dan fitur – fitur lainnya
 
 Buat kamu yang ingin menggunakan aplikasi ini, kamu bisa secara langsung mendownload secara gratis pada Play Store. Akan tetapi, jika kamu ingin menggunakan beberapa item di dalamnya harus melakukan pembelian terlebih dahulu.
+
+Sumber referensi: https://blogs.itb.ac.id/kmrg/cara-pakai-narrators-voice/

@@ -71,8 +71,26 @@ Salah satu aplikasi yang umumnya dipakai adalah Easy Voice Recorder. Sebelum mer
 
 Dengan cara merekam suara Google yang sangat mudah ini, kamu dapat menggunakan suara Google dalam berbagai bahasa pilihan kamu sebagai nada dering notifikasi WhatsApp atau disematkan ke dalam konten video TikTok, Instagram, atau YouTube. Cara ini bisa juga kamu terapkan untuk teknik `nada dering sebut nama <https://news.google.com/articles/CAIiELqKPqSI0e-WSneX8486pSwqGQgEKhAIACoHCAowksmmCzD6074DMMqTkAc?uo=CAUiN2h0dHBzOi8va2FyaW5vdi5jby5pZC9jYXJhLWJ1YXQtbmFkYS1kZXJpbmctc2VidXQtbmFtYS_SAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ di aplikasi WA.
 
+Cara pasang nada dering Suara Google ke Whatsapp
+---------------------
+
+Selain menggunakan situs soundoftext.com anda juga bisa menggunakan situs voiceoftext.com untuk mendapatkan nada dering WA Suara Google.
+
+Situs voiceoftext.com juga memiliki koleksi lengkap yang tidak hanya suara bahasa Indonesia saja. Anda bisa melihat semua pilihan yang ada dengan mengunjungi situs tersebut.
+
+1. Buka web browser ketik url `sound of text wa <https://www.sebuahutas.com/2022/05/sound-of-text-wa-indonesia-terbaru.html>`_
+2. Pada kolom pencarian ketik kata kunci sound of text
+3. Pilih salah satu situs text to speech yang ingin anda jadikan nada dering WA
+4. Klik download MP3 dan proses download akan berjalan dengan sendirinya
+5. Setelah download selanjutnya anda hanya perlu menjadikan sound tersebut menjadi nada dering WA
+6. Buka aplikasi Whatsapp
+7. Masuk ke menu pengaturan -> notifikasi -> notifikasi tone
+8. Cari dan pilih nada dering suara Google yang telah kamu download tadi
+9. Selesai, untuk mengujinya anda bisa mencoba panggilan masuk atau pesan masuk.
+
 Penutup Panduan Suara Google
-==================
+-----------------
+
 Demikianlah informasi mengenai suara Google yang sedang happening saat ini beserta dua cara merekam suara Google. Kamu dapat merekam suara Google melalui PC atau melalui smartphone dengan sebuah aplikasi perekam. 
 
 Aplikasi perekam ini digunakan untuk mendapatkan suara Google lebih mudah. Semoga informasi ini berguna untuk kamu yang sedang mencari cara merekam suara Google untuk membuat nada notifikasi kamu semakin anti-mainstream atau mencari efek suara yang menarik untuk konten TikTok. Selamat mencoba!

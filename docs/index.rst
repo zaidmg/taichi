@@ -34,7 +34,7 @@ Hasil teks yang sudah diubah dapat diunduh menjadi file MP3 dan bisa dipakai unt
 •	Jika suara Google sudah kamu dapat langsung mengunduh suara tersebut dengan mengklik tombol Download berwarna biru.
 •	Apabila kamu belum puas dengan suara yang dihasilkan, kamu bisa mengulangi langkah-langkah di atas untuk melakukan cara merekam suara Google.
 
-Artikel terkait: https://whitepaper.co.id/cara-buat-rekam-dan-simpan-suara-google/
+Artikel terkait: https://www.teknotuf.com/cara-membuat-suara-google/
 
 Cara Merekam Suara Google Melalui PC
 -----------------------------
@@ -69,7 +69,21 @@ Salah satu aplikasi yang umumnya dipakai adalah Easy Voice Recorder. Sebelum mer
 •	Setelah itu, tekan tombol centang di sebelah kanan tombol Record untuk menghentikan perekaman.
 •	Kemudian, untuk mendengarkan rekaman suara Google, pergi ke menu Listen.
 
-Dengan cara merekam suara Google yang sangat mudah ini, kamu dapat menggunakan suara Google dalam berbagai bahasa pilihan kamu sebagai nada dering notifikasi WhatsApp atau disematkan ke dalam konten video TikTok, Instagram, atau YouTube. Cara ini bisa juga kamu terapkan untuk teknik `nada dering sebut nama <https://news.google.com/articles/CAIiELqKPqSI0e-WSneX8486pSwqGQgEKhAIACoHCAowksmmCzD6074DMMqTkAc?uo=CAUiN2h0dHBzOi8va2FyaW5vdi5jby5pZC9jYXJhLWJ1YXQtbmFkYS1kZXJpbmctc2VidXQtbmFtYS_SAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ di aplikasi WA.
+Dengan cara merekam suara Google yang sangat mudah ini, kamu dapat menggunakan suara Google dalam berbagai bahasa pilihan kamu sebagai nada dering notifikasi WhatsApp atau disematkan ke dalam konten video TikTok, Instagram, atau YouTube. Cara ini bisa juga kamu terapkan untuk teknik `nada dering sebut nama <https://www.teknotuf.com/nada-dering-sound-of-text-sebut-nama/>`_ di aplikasi WA.
+
+Menggunakan Aplikasi Text to Speech dari Voiceoftext.com
+-----------------------------
+
+Selain Google Text to Speech, kamu juga bisa menggunakan aplikasi lainnya untuk mengambil suara Google. Aplikasi tersebut bernama Voice of Text APK yang dikembangkan oleh **Voiceoftext.com**. Kelebihan aplikasi ini yaitu memberikan hasil suara yang cukup bagus untuk bahan editing atau nada dering. Cara menggunakan aplikasi Voice of Text APK yaitu sebagai berikut:
+
+- Langkah 1: Unduh dan pasang aplikasi Voice Of Text melalui Play Store atau link ini: https://drive.msi.one/86143
+- Langkah 2: Masuk aplikasi.
+- Langkah 3: Pilih gaya bicara pada bagian bahasa. Lalu masukkan teks yang akan diubah suaranya menjadi suara Google.
+- Langkah 4: Kamu bisa mengatur kecepatan atau speed, pitch, dan juga volume.
+- Langkah 5: Coba dengarkan jika semuanya sudah diatur.
+- Langkah 6: Untuk mengunduh hasil rekaman, tekan ikon titik tiga kemudian pilih opsi Save to mp3 file.
+
+File yang tersimpan berbentuk mp3. Biasanya file tersebut digunakan untuk pembuatan video editing dan lain sebagainya.
 
 Cara pasang nada dering Suara Google ke Whatsapp
 ---------------------
@@ -105,3 +119,4 @@ Contents
    style-guide
    download-nada-dering/index
    application/index
+   sebut-nama/index

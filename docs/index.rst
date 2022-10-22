@@ -12,7 +12,7 @@ Jika kamu perhatikan pada konten video saat ini, para konten kreator banyak yang
 
 Suara Google ini membuat suatu konten video jadi lebih lucu dan menarik karena karakter suara Google Translate yang datar dan sedikit berbeda dengan nuansa video keseluruhan.
 
-Suara Google tersebut selain dipakai di konten video, banyak juga yang memakainya untuk suara nada dering agar terdengar unik dan tidak biasa. kamu bisa juga mempelajari ini lebih jauh di artikel `cara buat suara google di hp android <https://news.google.com/articles/CAIiEHWjgCW00Nw2y0EHFhg9LZ0qGQgEKhAIACoHCAow38imCzDH074DMOufkAc?uo=CAUiTWh0dHBzOi8vd3d3LnNlYnVhaHV0YXMuY29tLzIwMjIvMDIvY2FyYS1tZW1idWF0LXN1YXJhLWdvb2dsZS1kaS1ocC10YW5wYS5odG1s0gEA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ yang diulas oleh tim ahli teknologi dari Sebuahutas.
+Suara Google tersebut selain dipakai di konten video, banyak juga yang memakainya untuk suara nada dering agar terdengar unik dan tidak biasa. kamu bisa juga mempelajari ini lebih jauh di artikel `cara buat suara google di hp android <https://www.sebuahutas.com/cara-membuat-suara-google/`_ yang diulas oleh tim ahli teknologi Muhamad Syarif.
 
 Cara Merekam Suara Google 
 =================
@@ -69,7 +69,7 @@ Salah satu aplikasi yang umumnya dipakai adalah Easy Voice Recorder. Sebelum mer
 •	Setelah itu, tekan tombol centang di sebelah kanan tombol Record untuk menghentikan perekaman.
 •	Kemudian, untuk mendengarkan rekaman suara Google, pergi ke menu Listen.
 
-Dengan cara merekam suara Google yang sangat mudah ini, kamu dapat menggunakan suara Google dalam berbagai bahasa pilihan kamu sebagai nada dering notifikasi WhatsApp atau disematkan ke dalam konten video TikTok, Instagram, atau YouTube. Cara ini bisa juga kamu terapkan untuk teknik `nada dering sebut nama <https://www.teknotuf.com/nada-dering-sound-of-text-sebut-nama/>`_ di aplikasi WA.
+Dengan cara merekam suara Google yang sangat mudah ini, kamu dapat menggunakan suara Google dalam berbagai bahasa pilihan kamu sebagai nada dering notifikasi WhatsApp atau disematkan ke dalam konten video TikTok, Instagram, atau YouTube. Cara ini bisa juga kamu terapkan untuk teknik `nada dering sebut nama <https://www.teknotuf.com/nada-dering-wa-sebut-nama/>`_ di aplikasi WA.
 
 Menggunakan Aplikasi Text to Speech dari Voiceoftext.com
 -----------------------------
@@ -85,6 +85,24 @@ Selain Google Text to Speech, kamu juga bisa menggunakan aplikasi lainnya untuk 
 
 File yang tersimpan berbentuk mp3. Biasanya file tersebut digunakan untuk pembuatan video editing dan lain sebagainya.
 
+Cara Buat Suara Anime Girl dari Tulisan
+-------------
+
+Dalam membuat suara Google anime girl, Vo Codes bisa menjadi pilihan situs yang terbaik. Platform ini punya banyak sekali suara tokoh perempuan dari berbagai anime terbaik di dunia seperti Sailor Moon, Dragon Ball dan yang lainnya. Untuk proses pembuatannya cukup mudah dan berikut tutorialnya:
+
+- Langkah 1: Gunakan browser dari smartphone lalu pastekan situs berikut https://fakeyou.com/?from=vo.codes&vocodes=1 
+- Langkah 2: Pada bagian category, kamu bisa memilih anime. 
+- Langkah 3: Di sebelahnya kanan kamu bisa memilih tokoh anime, contohnya Sailor Moon. 
+- Langkah 4: Pada bagian voice pilihlah salah satu tokoh yang kamu kagumi.
+- Langkah 5: Pada kolom text ketikkan saja kata-kata yang ingin diubah menjadi suara. 
+- Langkah 6: Lanjut di bawahnya dengan mengklik speak. 
+- Langkah 7: Untuk mendengarkan kamu bisa klik tombol play. Jika sudah sesuai silahkan pilih permalink and download. 
+- Langkah 8: Tunggu hingga proses download suara Google selesai
+
+Proses pembuatan suara Google anime di situs tersebut punya banyak pilihan. Misalnya Inuyasa, Naruto, One Piece, My Hero Academia dan beberapa pilihan lain. Untuk tokoh yang ditampilkan ada yang berjenis kelamin wanita dan laki-laki. 
+
+Selain anime ada juga beberapa kategori lain seperti kartun, games dan yang lainnya. Sehingga kamu punya banyak opsi dan semua suara yang dihasilkan tergolong unik, sedikit aneh dan berbeda dari lainnya. Untuk mempelajari teknik ini lebih lanjut, kamu bisa membaca di artikel `sound of text anime <https://www.griyawisata.com/2022/10/sound-of-text-anime-di-nada-dering-wa.html>`_.
+
 Cara pasang nada dering Suara Google ke Whatsapp
 ---------------------
 
@@ -92,7 +110,7 @@ Selain menggunakan situs soundoftext.com anda juga bisa menggunakan situs voiceo
 
 Situs voiceoftext.com juga memiliki koleksi lengkap yang tidak hanya suara bahasa Indonesia saja. Anda bisa melihat semua pilihan yang ada dengan mengunjungi situs tersebut.
 
-1. Buka web browser ketik url `sound of text wa <https://www.sebuahutas.com/2022/05/sound-of-text-wa-indonesia-terbaru.html>`_
+1. Buka web browser ketik url `sound of text wa <https://www.sebuahutas.com/sound-of-text/>`_
 2. Pada kolom pencarian ketik kata kunci sound of text
 3. Pilih salah satu situs text to speech yang ingin anda jadikan nada dering WA
 4. Klik download MP3 dan proses download akan berjalan dengan sendirinya
@@ -108,6 +126,11 @@ Penutup Panduan Suara Google
 Demikianlah informasi mengenai suara Google yang sedang happening saat ini beserta dua cara merekam suara Google. Kamu dapat merekam suara Google melalui PC atau melalui smartphone dengan sebuah aplikasi perekam. 
 
 Aplikasi perekam ini digunakan untuk mendapatkan suara Google lebih mudah. Semoga informasi ini berguna untuk kamu yang sedang mencari cara merekam suara Google untuk membuat nada notifikasi kamu semakin anti-mainstream atau mencari efek suara yang menarik untuk konten TikTok. Selamat mencoba!
+
+Referensi
+**********
+
+- https://blogs.itb.ac.id/kmrg/cara-mudah-download-suara-google/
 
 ********
 Contents

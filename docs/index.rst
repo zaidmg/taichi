@@ -12,7 +12,7 @@ Jika kamu perhatikan pada konten video saat ini, para konten kreator banyak yang
 
 Suara Google ini membuat suatu konten video jadi lebih lucu dan menarik karena karakter suara Google Translate yang datar dan sedikit berbeda dengan nuansa video keseluruhan.
 
-Suara Google tersebut selain dipakai di konten video, banyak juga yang memakainya untuk suara nada dering agar terdengar unik dan tidak biasa. kamu bisa juga mempelajari ini lebih jauh di artikel `cara buat suara google di hp android <https://www.sebuahutas.com/cara-membuat-suara-google/`_ yang diulas oleh tim ahli teknologi Muhamad Syarif.
+Suara Google tersebut selain dipakai di konten video, banyak juga yang memakainya untuk suara nada dering agar terdengar unik dan tidak biasa. kamu bisa juga mempelajari ini lebih jauh di artikel `cara buat suara google di hp android <https://www.sebuahutas.com/cara-membuat-suara-google/>`_ yang diulas oleh tim ahli teknologi Muhamad Syarif.
 
 Cara Merekam Suara Google 
 =================

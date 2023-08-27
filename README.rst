@@ -1,43 +1,11 @@
-Template
-========
+Dokumentasi Suara Google
+=================
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Suara Google adalah teknologi text-to-speech (TTS) yang dikembangkan oleh Google. Teknologi ini memungkinkan komputer untuk mengubah teks menjadi suara yang terdengar alami. Suara Google digunakan dalam berbagai produk dan layanan Google, termasuk Asisten Google, Google Translate, dan Google Search.
 
-Look how easy it is to use:
+Suara Google memiliki beberapa fitur utama, yaitu:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license. Mengulas beragam jenis Whatsmod yang dapat diunduh secara gratis dan powerful dengan beragam fitur menarik dari versi originalnya.
-
-- https://www.autobild.co.id/ - Direktori Aplikasi dan Tutorial Teknologi Indonesia
+Suara yang terdengar alami: Suara Google menggunakan algoritma dan data suara yang telah diprogram untuk menciptakan suara yang terdengar alami.
+Berbagai bahasa: Suara Google tersedia dalam berbagai bahasa, termasuk bahasa Inggris, Prancis, Jerman, Spanyol, dan Jepang.
+Kualitas tinggi: Suara Google menawarkan kualitas audio yang tinggi, sehingga pengguna dapat menikmati pengalaman mendengarkan yang menyenangkan.
+Suara Google adalah teknologi yang terus berkembang, dan Google terus berinovasi untuk meningkatkan kualitas dan fitur-fiturnya.

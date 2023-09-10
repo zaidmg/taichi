@@ -59,6 +59,10 @@ Lalu, bagaimana cara menggunakan aplikasi sound of text? Tidak perlu khawatir, t
 
 Dengan aplikasi Sound of Text, mengakses suara sintetis menjadi lebih mudah dan praktis bagi semua orang. Anda dapat menggunakan suara robot yang dihasilkan untuk berbagai keperluan, seperti membacakan teks dalam presentasi, pembuatan konten multimedia, dan lain-lain. Nikmati kemudahan dan fleksibilitas aplikasi ini dalam menciptakan suara sintetis yang sesuai dengan kebutuhan Anda. Unduh aplikasi `Sound of Text Indonesia <https://www.soundoftext.co.id>`_ sekarang dan eksplorasi berbagai kemungkinan kreatif dengan suara sintetis.
 
+**Referensi**:
+
+- `Karinov Sound of text <https://karinov.co.id/sound-of-text/>`_
+
 ********
 Daftar Isi
 ********
